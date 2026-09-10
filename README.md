@@ -58,7 +58,7 @@ Aspiring SOC Analyst with hands-on experience in log analysis, threat detection,
 | [Phishing Email Investigation](https://github.com/Sandesh-M94/Phishing-Email-Investigation) | Analyzed a real-world phishing email, extracted IOCs, and documented findings | Email headers, VirusTotal, URLScan |
 | [Packet Capture Analysis](https://github.com/Sandesh-M94/Packet-Capture-Analysis) | Investigated suspicious network traffic in a PCAP file to identify C2 communication | Wireshark, Zeek |
 | [MITRE ATT&CK Detection Mapping](https://github.com/Sandesh-M94/MITRE-ATT-CK-Detection-Mapping) | Mapped common attack techniques to detection rules and mitigations | MITRE ATT&CK Navigator, Sigma |
-| [Incident Response Playbook](./05-ir-playbook) | Wrote a sample IR playbook for a ransomware scenario | NIST 800-61 framework |
+| [Incident Response Playbook](https://github.com/Sandesh-M94/Incident-Response-Playbook-Ransomware-Scenario) | Wrote a sample IR playbook for a ransomware scenario | NIST 800-61 framework |
 
 *(Each folder contains its own README with full writeup, screenshots, and findings.)*
 
