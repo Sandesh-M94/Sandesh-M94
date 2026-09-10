@@ -54,7 +54,7 @@ Aspiring SOC Analyst with hands-on experience in log analysis, threat detection,
 
 | Project | Description | Tools Used |
 |---|---|---|
-| [Home SIEM Lab](./01-home-siem-lab) | Built a Splunk lab ingesting Windows Event Logs to detect brute-force and privilege escalation attempts | Splunk, Windows Server, Sysmon |
+| [Home SIEM Lab](https://github.com/Sandesh-M94/Home-SIEM-Lab/tree/main) | Built a Splunk lab ingesting Windows Event Logs to detect brute-force and privilege escalation attempts | Splunk, Windows Server, Sysmon |
 | [Phishing Email Investigation](./02-phishing-investigation) | Analyzed a real-world phishing email, extracted IOCs, and documented findings | Email headers, VirusTotal, URLScan |
 | [Packet Capture Analysis](./03-pcap-analysis) | Investigated suspicious network traffic in a PCAP file to identify C2 communication | Wireshark, Zeek |
 | [MITRE ATT&CK Detection Mapping](./04-attack-mapping) | Mapped common attack techniques to detection rules and mitigations | MITRE ATT&CK Navigator, Sigma |
